@@ -1,0 +1,21 @@
+.images {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  row-gap: 3px;
+  column-gap: 5px;
+    justify-content:space-evenly;
+  
+  }
+  
+  .img {
+    width: 32%; 
+ 
+   
+  }
+  *{
+
+    margin: 0;
+    padding: 0;
+  }
+  
